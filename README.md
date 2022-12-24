@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an experienced professional with a background in teaching, social work, and parent education. I am currently collaborating with University researchers to develop a virtual reality module that uses positive psychology principles to teach coping skills, reframe negative thought processes, and promote self-efficacy. I am passionate about exploring the potential of extended reality experiences to redefine our understanding of reality, and I am committed to being an active player in this field. To this end, I have developed expertise in WebXR and full stack web development. I am always looking for opportunities to work on projects that have the potential to make a positive impact on society.
+I have been working as an XR developer for the past 3 years, utilizing tools such as Unity, Blender, and GIMP in my workflows. I have a strong interest in using web technologies like WebXR, as well as other tools like Three.js and Node.js, to create immersive and engaging experiences. With a background in teaching, social work, and parent education, I am committed to using my skills and expertise to create meaningful and impactful projects. Whether it's through collaborating with researchers or working on my own ideas, I am always striving to push the boundaries of what is possible with extended reality.
 
 
 ## 🌐 Socials:
