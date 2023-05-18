@@ -1,5 +1,5 @@
 # 💫 About Me:
-I have been working as an XR developer for the past 3 years, utilizing tools such as Unity, Blender, and GIMP in my workflows. I have a strong interest in using web technologies like WebXR, as well as other tools like Three.js and Node.js, to create immersive and engaging experiences. With a background in teaching, social work, and parent education, I am committed to using my skills and expertise to create meaningful and impactful projects. Whether it's through collaborating with researchers or working on my own ideas, I am always striving to push the boundaries of what is possible with extended reality.
+I have been working as an XR developer for the past 4 years, utilizing tools such as Unity, Blender, and GIMP in my workflows. I have a strong interest in using web technologies like WebXR, as well as other tools like Three.js and Node.js, to create immersive and engaging experiences. With a background in teaching, social work, and parent education, I am committed to using my skills and expertise to create meaningful and impactful projects. Whether it's through collaborating with researchers or working on my own ideas, I am always striving to push the boundaries of what is possible with extended reality.
 
 
 ## 🌐 Socials:
